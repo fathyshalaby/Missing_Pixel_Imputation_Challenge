@@ -10,3 +10,4 @@ crop_size: A tuple containing 2 odd int values. These two values specify the len
 
 crop_center: A tuple containing 2 int values. These two values are the position of the center of the to-be cropped-out rectangle in pixels for the two spatial dimensions X and Y in that order.
 
+![alt text](https://github.com/fathyshalaby/Missing_Pixel_Imputation_Challenge/blob/main/Screenshot%202020-10-15%20at%2015.43.12.png?raw=true)
